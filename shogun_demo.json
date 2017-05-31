@@ -1,0 +1,38 @@
+{
+	"title": "Catálogo de datos abiertos de Presidencia",
+	"description": "",
+	"homepage": "",
+	"language": "es",
+	"license": "https://datos.gob.mx/libreusomx/",
+	"issued": "2015-09-02T23:50:35Z",
+	"modified": "2017-05-23T15:36:28Z",
+	"dataset": 
+	[ {
+		"id": 8441,
+		"title": "Cuarto Informe de Gobierno - México en Paz",
+		"description": "Cuarto Informe de Gobierno - México en Paz",
+		"issued": null,
+		"modified": "2016-07-18T00:00:00Z",
+		"identifier": "cuarto-informe-de-gobierno-mexico-en-paz",
+		"theme": "Seguridad y Justicia",
+		"keyword": ["cuarto-informe", "informe-gobierno", "federal", "seguridad-y-justicia"],
+		"language": "es",
+		"contactPoint": "http://adela.datos.com.mx/adela/api/v1/datasets/8441/contact_point.vcf",
+		"temporal": null,
+		"spatial": null,
+		"govType": "federal",
+		"accrualPeriodicity": null,
+		"landingPage": "https://www.gob.mx/informe",
+		"openessRating": 1,
+		"comments": null,
+		"quality": null,
+		"publisher": {
+			"name": null,
+			"position": "Administrador Institucional de Datos",
+			"mbox": "enrique.zapata@presidencia.gob.mx"
+		},
+		"public": true,
+		"publishDate": "2016-09-01T00:00:00Z",
+		"distribution": []
+	}]
+}

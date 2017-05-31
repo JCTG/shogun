@@ -18,3 +18,8 @@ api.add_resource(Harvest, '/v1/harvest')
 handler = logging.FileHandler(filename='shogun.log', mode='w')
 handler.setLevel(logging.INFO)
 app.logger.addHandler(handler)
+
+
+handler = logging.FileHandler(filename='shogun.log', mode='w')
+handler.setLevel(logging.ERROR)
+app.logger.addHandler(handler)
